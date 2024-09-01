@@ -1,0 +1,10 @@
+.service-card {
+    margin-bottom: 30px;
+}
+.service-card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+.service-card-body {
+    text-align: center;
+}
